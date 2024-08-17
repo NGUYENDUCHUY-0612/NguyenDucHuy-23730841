@@ -2,7 +2,7 @@
 """
 Created on Sat Aug 17 16:05:46 2024
 
-@author: ADM
+@author: Nguyễn Đức Huy - 23730841
 """
 
 import random
